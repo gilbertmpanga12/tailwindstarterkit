@@ -10,5 +10,5 @@ You simply just clone this repo and you're good to go!🔥
 
 ## HOW TO GET STARTED
 1. Clone this repo
-2. Run `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
+2. Run `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch` to create dist folder
 3. You're good to go!

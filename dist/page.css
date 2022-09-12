@@ -1,5 +1,5 @@
 .title-color{
-color: #041d34;
+color: #18181b;
 }
 
 .title-font{
@@ -11,9 +11,13 @@ p , a, button{
     font-family: 'Roboto Flex', sans-serif;
 }
 .main-page-background{
-    background-color: #f5f8fa;
+    background-color: #f5e8e8;
 }
 
 .roboto-flex{
     font-family: 'Roboto Flex', sans-serif;
+}
+
+.btn-color{
+    background-color: #18181b;
 }

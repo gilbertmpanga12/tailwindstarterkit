@@ -2,6 +2,18 @@
 color: #041d34;
 }
 
+.title-font{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+p , a, button{
+    font-family: 'Roboto Flex', sans-serif;
+}
 .main-page-background{
     background-color: #f5f8fa;
+}
+
+.roboto-flex{
+    font-family: 'Roboto Flex', sans-serif;
 }
